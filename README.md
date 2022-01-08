@@ -29,7 +29,7 @@ Kanban
 ## Steps to test and run the application:
 1. Clone the repository
 ```
-git clone https://github.com/gopinathsjsu/team-project-ddst.git
+git clone https://github.com/s-shirodkar321/Airline-Reservation-System.git
 ```
 2. Go to 'backend' repository
 ```
@@ -43,18 +43,6 @@ npm start
 npm run build
 ```
 4. The web application opens in the default browser
-
-## XP Core Values:
-[XP Core Values implemented by our team](https://github.com/gopinathsjsu/team-project-ddst/blob/main/Documentation/XP_Core_Values.md)
-
-## Sprint Sheet:
-[Sprint Sheet for Team DDST](https://github.com/gopinathsjsu/team-project-ddst/blob/main/Documentation/Sprint_Sheet.xlsx)
-
-## Project Journals:
-Please find all the individual project journals in the [Documentation](https://github.com/gopinathsjsu/team-project-ddst/tree/main/Documentation/) directory.
-
-## UI Wireframe
-Find the [UI Wireframe](https://github.com/gopinathsjsu/team-project-ddst/blob/main/Documentation/Wireframe.pdf) here.
 
 ## Architecture Diagram
 ![image](https://user-images.githubusercontent.com/31564740/144546225-490e07ed-eb5a-452d-ad6c-8806c54985f6.png)
